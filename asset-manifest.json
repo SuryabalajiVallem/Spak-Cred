@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Spak-Cred/static/css/main.afde22a2.chunk.css",
-    "main.js": "/Spak-Cred/static/js/main.7a22ab9f.chunk.js",
-    "main.js.map": "/Spak-Cred/static/js/main.7a22ab9f.chunk.js.map",
+    "main.js": "/Spak-Cred/static/js/main.a8ed622e.chunk.js",
+    "main.js.map": "/Spak-Cred/static/js/main.a8ed622e.chunk.js.map",
     "runtime-main.js": "/Spak-Cred/static/js/runtime-main.693b8e85.js",
     "runtime-main.js.map": "/Spak-Cred/static/js/runtime-main.693b8e85.js.map",
     "static/js/2.faa88176.chunk.js": "/Spak-Cred/static/js/2.faa88176.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.693b8e85.js",
     "static/js/2.faa88176.chunk.js",
     "static/css/main.afde22a2.chunk.css",
-    "static/js/main.7a22ab9f.chunk.js"
+    "static/js/main.a8ed622e.chunk.js"
   ]
 }
