@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Spak-Cred/static/css/main.e25bc72f.chunk.css",
+    "main.css": "/Spak-Cred/static/css/main.a6befbce.chunk.css",
     "main.js": "/Spak-Cred/static/js/main.de3647f8.chunk.js",
     "main.js.map": "/Spak-Cred/static/js/main.de3647f8.chunk.js.map",
     "runtime-main.js": "/Spak-Cred/static/js/runtime-main.693b8e85.js",
@@ -10,13 +10,13 @@
     "static/js/3.137b2029.chunk.js": "/Spak-Cred/static/js/3.137b2029.chunk.js",
     "static/js/3.137b2029.chunk.js.map": "/Spak-Cred/static/js/3.137b2029.chunk.js.map",
     "index.html": "/Spak-Cred/index.html",
-    "static/css/main.e25bc72f.chunk.css.map": "/Spak-Cred/static/css/main.e25bc72f.chunk.css.map",
+    "static/css/main.a6befbce.chunk.css.map": "/Spak-Cred/static/css/main.a6befbce.chunk.css.map",
     "static/js/2.faa88176.chunk.js.LICENSE.txt": "/Spak-Cred/static/js/2.faa88176.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.693b8e85.js",
     "static/js/2.faa88176.chunk.js",
-    "static/css/main.e25bc72f.chunk.css",
+    "static/css/main.a6befbce.chunk.css",
     "static/js/main.de3647f8.chunk.js"
   ]
 }
